@@ -21,7 +21,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 Clone this repository and change into the cloned repository's directory:
 ```sh
-$ git clone https://github.com/mihir3k/smmry
+$ git clone https://github.com/boromihir/smmry
 $ cd smmry
 ```
 
